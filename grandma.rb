@@ -16,7 +16,7 @@
 
 # OUTPUTS --> a response from grandma --> String 
 
-"WHATS UP GRANDMA"
+
 def speak_to_grandma(phrase)
   answer = "HUH?! SPEAK UP, SONNY!"
   
@@ -25,7 +25,7 @@ def speak_to_grandma(phrase)
   elsif phrase == phrase.upcase
     puts "NO, NOT SINE 1938"
   else 
-    
+    puts answer
   end
   
   
