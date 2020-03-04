@@ -20,6 +20,8 @@
 def speak_to_grandma(phrase)
   answer = "HUH?! SPEAK UP, SONNY!"
   if phrase == phrase.upcase
+    puts "NO, NOT SINE 1938"
+  end
   
   
 end
