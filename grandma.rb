@@ -26,6 +26,6 @@ def speak_to_grandma(phrase)
   else 
     answer
   end
-  puts "HELLO WORLD"
+  return puts "HELLO WORLD"
 end
 
