@@ -17,7 +17,6 @@
 # OUTPUTS --> a response from grandma --> String 
 
 
-
 def speak_to_grandma(phrase)
   answer = "HUH?! SPEAK UP, SONNY!"
   if phrase == "I LOVE YOU GRANDMA!"
