@@ -17,8 +17,8 @@
 # OUTPUTS --> a response from grandma --> String 
 
 
-def speak_to_grandma
-  
+def speak_to_grandma(phrase)
+  answer = "HUH?! SPEAK UP, SONNY!"
   
 end
 
