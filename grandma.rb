@@ -14,6 +14,8 @@
 
 # INPUTS --> a question to grandma --> String
 
-# OUTPUTS
+# OUTPUTS --> a response from grandma --> String 
+
+
 
 
